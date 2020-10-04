@@ -1,0 +1,6 @@
+[
+    {"caption": "Wrap in Box", "command": "box_drawing_selection"},
+    {"caption": "Wrap in Box: Dashed", "command": "box_drawing_selection", "args": {"straight": "dashed"}},
+    {"caption": "Wrap in Box: Rounded Corners", "command": "box_drawing_selection", "args": {"corner": "round"}},
+    {"caption": "Wrap in Box: ASCII", "command": "box_drawing_selection", "args": {"straight": "ascii", "corner": "ascii"}},
+]
